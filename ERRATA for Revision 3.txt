@@ -24,6 +24,10 @@ Table 5.3: Corrected and completed units and notation for thermal conductivity a
 
 Table 5.4: Caption corrected to "coolant" instead of "fuel"
 
+Table 5.7: Corrected footnote formatting
+
+Table 5.12: Corrected line formatting
+
 Section 5.5.3.7: Improved wording for clarity and added the missing average temperature T_avg = 1314 K to Eq. 5.22.
 
 Figure 6.5: Corrected density-graph caption.
