@@ -7,7 +7,7 @@ CAD reconstruction & CFD simulation of a NERVA/NRX-A6 nuclear thermal propulsion
 
 This repository contains the following technical artifacts from the thesis:
 
-- Thesis PDF — documentation of methodology, assumptions, results, and limitations.
+- Thesis PDF — documentation of methodology, assumptions, results, limitations, and recommendations.
 - Errata — corrections to the Thesis PDF since the official submission.
 - Presentation PDF — Original slides from defence presentation.
 - `CAD.zip` — reconstructed late NERVA/NRX-A-series (skirtless NRX-A6) fuel-cluster CAD.
